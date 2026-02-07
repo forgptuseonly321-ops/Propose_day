@@ -13,9 +13,9 @@ font-family:Poppins;
 text-align:center;
 ">
 
-<h1 style="font-family:Pacifico;">My Payara Bacha Said YES 😍💍</h1>
+<h1 style="font-family:Pacifico;">See Bacha U Said YES 😍💍(i Knew it 😉)</h1>
 
-<h2>You Are My Forever ❤️ Baby </h2>
+<h2>You Are My Forever ❤️ Baby  </h2>
 
 <p>
 Thank you for choosing me 🥺💖 <br>
@@ -41,3 +41,4 @@ btn.style.position = "absolute";
 btn.style.left = x + "px";
 btn.style.top = y + "px";
 }
+
