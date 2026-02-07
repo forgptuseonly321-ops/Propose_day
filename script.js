@@ -13,7 +13,7 @@ font-family:Poppins;
 text-align:center;
 ">
 
-<h1 style="font-family:Pacifico;">See Bacha U Said YES 😍💍(i Knew it 😉)</h1>
+<h1 style="font-family:Pacifico;">See Bache U Said YES 😍💍(i Knew it 😉)</h1>
 
 <h2>You Are My Forever ❤️ Baby  </h2>
 
@@ -41,5 +41,6 @@ btn.style.position = "absolute";
 btn.style.left = x + "px";
 btn.style.top = y + "px";
 }
+
 
 
